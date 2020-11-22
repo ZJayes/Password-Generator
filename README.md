@@ -14,6 +14,7 @@ The user selects ok or cancel.
 The use selects their choice in the message bar.
 -Finally, the screen will display the new generated password.
 
-Below is the screenshot of my page:
+Below is the screenshots of my page:
 
-![image](https://user-images.githubusercontent.com/71290304/99893154-35fa6c80-2c42-11eb-834d-ef98d938fb06.png)
+![image](https://user-images.githubusercontent.com/71290304/99893197-c46eee00-2c42-11eb-86b7-744a47d5c574.png)
+![image](https://user-images.githubusercontent.com/71290304/99893209-dcdf0880-2c42-11eb-8c5f-6c965d2a4777.png)
