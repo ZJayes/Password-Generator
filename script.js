@@ -13,10 +13,10 @@ function writePassword() {
 function generatePassword() {
 
   var choice = [];
-  var lower = confirm("Insert lowercase letters?");
-  var upper = confirm("Insert uppercase letters?");
-  var number = confirm("Insert numbers?");
-  var special = confirm("Insert special characters?");
+  var lower = confirm("Do you want lowercase letters?");
+  var upper = confirm("Do you want capital letters?");
+  var number = confirm("Do you want special characters?");
+  var special = confirm("Do you want to add numbers?")
 
 
 
